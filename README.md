@@ -1,3 +1,3 @@
 # Generative-Model-Music-Generation 
 
-Please increase the epochs for better results
+Increase the epochs for better results
